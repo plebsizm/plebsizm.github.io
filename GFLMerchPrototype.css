@@ -1,0 +1,67 @@
+body{
+    background:#ddd;
+    }
+    h6.hint{text-align:center;margin:1em;color:grey}
+	h6.note{text-align:center;margin:1em;color:blue}
+	h6.alert{text-align:center;margin:1em;color:red}
+	h6.info{font-family:Raleway,sans-serif;text-align:left;margin:1em;letter-spacing:.2px;}
+    h3.h3{text-align:center;margin:1em;text-transform:capitalize;font-size:1.7em;}
+	
+	.info-box{
+	background-color: white;
+	color: black;
+	}
+	
+	.navbar{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #909090;
+	position: fixed;
+	display: flex;
+	justify-content: center;
+	bottom: 0;
+	width: 100%;
+	z-index: 2;
+	}
+	
+	.navbar a {
+	float:left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 4px 16px;
+	text-decoration: none;
+	font-size: 20px;
+	}
+	
+	.navbar a:hover{
+	background:#808080;
+	color: white;
+	height: 47px;
+	}
+
+    .product-grid{font-family:Raleway,sans-serif;text-align:center;padding:0 0 160px;border:1px solid rgba(0,0,0,.1);overflow:hidden;position:relative;z-index:1}
+    .product-grid .product-image{position:relative}
+    .product-grid .product-image img{width:100%;height:auto;object-fit: cover; aspect-ratio: 1 / 1;}
+    .product-grid .pic{opacity:1;transition:all .3s ease-out 0s}
+    .product-grid .product-discount-label,.product-grid .product-new-label{color:#fff;background-color:#ef5777;font-size:11px;padding:2px 7px;display:block;position:absolute;top:10px;left:0}
+    .product-grid .product-discount-label{background-color:#333;left:auto;right:0}
+    .product-grid .product-content{background-color:#fff;text-align:center;margin:0 auto;position:absolute;left:0;right:0;z-index:1; padding:0 0 40px}
+    .product-grid .title{font-size:13px;font-weight:400;letter-spacing:.4px;text-transform:capitalize;margin:10px 0 5px}
+    .product-grid .title a{color:#828282}
+    .product-grid .price{color:#333;font-size:17px;font-family:Montserrat,sans-serif;font-weight:700;letter-spacing:.6px;text-align:center;}
+    .product-grid .test{margin: 5px 0 0; color:#000;font-size:11px; font-weight:600}
+	.product-grid .characters{margin: 5px 0 0; color:#000;font-size:10px; font-weight:600}
+    
+@media only screen {
+	.product-grid{
+		margin-bottom:20px
+	}
+}
+@media (max-width: 512px) {
+    .col-sm-6{
+		padding:4px;
+		margin-bottom:-20px;
+	}
+}
