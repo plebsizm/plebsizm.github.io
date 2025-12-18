@@ -8,5 +8,5 @@ CHANGELOG:
 
 - 30/11/2025 - Initial Commit
 - 13/12/2025 - Added 2 new listings
-
+- 18/12/2025 - Added 1 new listing
 
