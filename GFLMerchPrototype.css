@@ -6,6 +6,7 @@ body{
 	h6.alert{text-align:center;margin:1em;color:red}
 	h6.info{font-family:Raleway,sans-serif;text-align:left;margin:1em;letter-spacing:.2px;}
     h3.h3{text-align:center;margin:1em;text-transform:capitalize;font-size:1.7em;}
+	h4.h4{text-align:center;margin:1em;text-transform:capitalize;}
 	
 	.info-box{
 	background-color: white;
@@ -37,16 +38,51 @@ body{
 	
 	.navbar a:hover{
 	background:#808080;
-	color: white;
-	height: 47px;
 	}
+	
+	.dropdown {
+	position: relative;
+	}
+	
+	.dropdown .dropbtn {
+	margin: 0;
+	}
+	
+
+	.dropdown-content {
+	display: none;
+	position: absolute;
+	bottom: 100%;
+	background-color: #f1f1f1;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+	}
+
+	.dropdown-content a {
+	float: none;
+	color: black;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+	}
+
+	.dropdown-content a:hover {
+	background-color: #ddd;
+	}
+	
+	.dropdown:hover .dropdown-content {
+	display: block;
+	}
+	
 
     .product-grid{font-family:Raleway,sans-serif;text-align:center;padding:0 0 160px;border:1px solid rgba(0,0,0,.1);overflow:hidden;position:relative;z-index:1}
     .product-grid .product-image{position:relative}
     .product-grid .product-image img{width:100%;height:auto;object-fit: cover; aspect-ratio: 1 / 1;}
     .product-grid .pic{opacity:1;transition:all .3s ease-out 0s}
-    .product-grid .product-discount-label,.product-grid .product-new-label{color:#fff;background-color:#ef5777;font-size:11px;padding:2px 7px;display:block;position:absolute;top:10px;left:0}
+    .product-grid .product-discount-label,.product-grid .product-new-label,.product-grid .product-onsale-label{color:#fff;background-color:#ef5777;font-size:11px;padding:2px 7px;display:block;position:absolute;top:10px;left:0}
     .product-grid .product-discount-label{background-color:#333;left:auto;right:0}
+	.product-grid .product-onsale-label{background-color:#228B22;left:auto;right:0}
     .product-grid .product-content{background-color:#fff;text-align:center;margin:0 auto;position:absolute;left:0;right:0;z-index:1; padding:0 0 40px}
     .product-grid .title{font-size:13px;font-weight:400;letter-spacing:.4px;text-transform:capitalize;margin:10px 0 5px}
     .product-grid .title a{color:#828282}
