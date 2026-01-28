@@ -12,3 +12,4 @@ CHANGELOG:
 - 05/01/2026 - Implemented basic sorting for GFL1 and PNC merchandise
 - 08/01/2026 - Added ~84 old listings for archival
 - 15/01/2026 - Added Moondrop x GFL2 collaboration earphones
+- 28/01/2026 - Added Item Clearance Gachapon, updated stock
