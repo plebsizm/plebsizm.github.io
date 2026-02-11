@@ -14,3 +14,4 @@ CHANGELOG:
 - 15/01/2026 - Added Moondrop x GFL2 collaboration earphones
 - 28/01/2026 - Added Item Clearance Gachapon, updated stock
 - 30/01/2025 - Added "Delet This" Spring Acrylic | 2 New Bobbleheads
+- 11/02/2025 - Added 3 new listings, updated stock
