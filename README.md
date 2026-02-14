@@ -15,4 +15,4 @@ CHANGELOG:
 - 28/01/2026 - Added Item Clearance Gachapon, updated stock
 - 30/01/2026 - Added "Delet This" Spring Acrylic | 2 New Bobbleheads
 - 11/02/2026 - Added 3 new listings, updated stock
-- 14/02/2026 - Added 1 new listing
+- 14/02/2026 - Added 2 new listings
