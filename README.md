@@ -17,3 +17,4 @@ CHANGELOG:
 - 11/02/2026 - Added 3 new listings, updated stock
 - 14/02/2026 - Added 2 new listings
 - 24/02/2026 - Added "Massive Goods Clearance Gachapon"
+- 18/03/2026 - Added 5 new listings
