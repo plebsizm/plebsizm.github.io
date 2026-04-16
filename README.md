@@ -19,4 +19,4 @@ CHANGELOG:
 - 24/02/2026 - Added "Massive Goods Clearance Gachapon"
 - 18/03/2026 - Added 5 new listings
 - 07/04/2026 - Added 4 total listings, updated stock
-- 16/04/2026 - Added Klukai Figma
+- 16/04/2026 - Added 3 new listings (surprise merch launch)
