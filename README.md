@@ -20,3 +20,4 @@ CHANGELOG:
 - 18/03/2026 - Added 5 new listings
 - 07/04/2026 - Added 4 total listings, updated stock
 - 16/04/2026 - Added 3 new listings (surprise merch launch)
+- 24/04/2026 - Added 1 new listing (10th Anni special)
