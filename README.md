@@ -25,3 +25,4 @@ CHANGELOG:
 - 18/05/2026 - Added 7 new listings
 - 29/05/2026 - Added 1 new listing
 - 01/06/2026 - Added 1 new listing
+- 12/06/2026 - Added 6 new listings, updated stock
