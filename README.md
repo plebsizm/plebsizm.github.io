@@ -27,3 +27,4 @@ CHANGELOG:
 - 01/06/2026 - Added 1 new listing
 - 12/06/2026 - Added 6 new listings, updated stock
 - 27/06/2026 - Added 1 new listing
+- 30/06/2026 - Added 1 new listing (GFL1 -> Figures)
