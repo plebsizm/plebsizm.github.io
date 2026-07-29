@@ -29,3 +29,4 @@ CHANGELOG:
 - 27/06/2026 - Added 1 new listing
 - 30/06/2026 - Added 1 new listing (GFL1 -> Figures)
 - 03/07/2026 - Added 2 new listings (GFL2, PNC -> Figures)
+- 29/07/2026 - Added 11 new listings (Planet Creation collaboration)
