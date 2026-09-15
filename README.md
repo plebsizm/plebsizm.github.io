@@ -32,3 +32,4 @@ CHANGELOG:
 - 29/07/2026 - Added 11 new listings (Planet Creation collaboration)
 - 07/08/2026 - Added 1 new listing, updated stock
 - 14/08/2026 - Added 6 new listings
+- 15/09/2026 - Added 12 new listings
